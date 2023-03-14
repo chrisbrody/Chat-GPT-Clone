@@ -1,6 +1,6 @@
 # Chat-GPT-Clone
 
-## Client
+## Client Folder
 Run the following command to get dependencies  
 
 `$npm install`
@@ -9,7 +9,7 @@ Run the client on your local host
 
 `$npm run dev`
 
-## Server
+## Server Folder
 Run the following command to get dependencies  
 
 `$npm install`
