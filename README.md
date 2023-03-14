@@ -2,12 +2,12 @@
 
 ## Client
 Run the following command to get dependecies  
-$npm install
+`$npm install`
 Run the client on your local host
-$npm run dev
+`$npm run dev`
 
 ## Server
 Run the following command to get dependecies  
-$npm install
+`$npm install`
 Run the server on your local host
-$npm run server
+`$npm run server`
